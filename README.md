@@ -1,10 +1,7 @@
-<h3 align='center'> Hi, I am Efrain </h3>
+<h2 align='center'> Hi, I am Efrain </h2>
 
 <div align='center'> 
-  <a href='![Imagen de WhatsApp 2025-07-31 a las 11 25 20_1c0707f1](https://github.com/user-attachments/assets/62bb9669-c256-425b-87a1-fef8194c1b64)' tarjet='_blank'>
-    <img src='![Imagen de WhatsApp 2025-07-31 a las 11 25 20_1c0707f1](https://github.com/user-attachments/assets/fb486ed1-7b12-4975-b55b-0b8672cf850d)' width='400' alt='Efrain'>
-  </a>
-  
+    <img src='![van dino](https://github.com/user-attachments/assets/c3730462-0581-4f0c-bb73-052fd7b50c4e)' width='400' alt='Efrain'>  
 </div>
 <!-- ## Hi  👋
 **EfrainRP/EfrainRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
