@@ -1,8 +1,8 @@
 <h2 align='center'> Hi, I am Efrain </h2>
 
-<div align='center'> 
-     (https://github.com/user-attachments/assets/e2e26751-4c1c-443e-b7a7-45030742d157)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/194cbec1-5b54-41ea-8138-74ee28dfa7c5" alt="van dino" width="400"/>
+</p>
 <!-- ## Hi  👋
 **EfrainRP/EfrainRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
