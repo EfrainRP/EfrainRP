@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Efrain</h1>
-<h3 align="center">Computer Engineer <br> Web Developer <br> Looking challenges to improve my logical and programming skills. You can see my projects.</h3>
+<h3 align="center">Computer Engineer | Web Developer | Looking challenges to improve my logical and programming skills. You can see my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efrainrp&label=Profile%20views&color=0e75b6&style=flat" alt="efrainrp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efrainrp" alt="efrainrp" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **Dextra Electronic Website**
+
+- 🌱 I’m currently learning **AWS, Laravel, C#**
+
+- 👨‍💻 All of my projects are available at [https://github.com/EfrainRP?tab=repositories](https://github.com/EfrainRP?tab=repositories)
 
 - 📫 How to reach me **efrainroblespulido@gmail.com**
 
-- ⚡ Fun fact **I'm dinosaur fan**
+- 📄 Know about my experiences [ds](ds)
+
+- ⚡ Fun fact **I'm dinosaur fan 🦖🦕😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/efrain robles pulido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrain robles pulido" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/efrain-robles-pulido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efrain-robles-pulido" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
