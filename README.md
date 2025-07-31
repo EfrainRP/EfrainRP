@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **efrainroblespulido@gmail.com**
 
-- 📄 Know about my experiences [ds](ds)
+- 📄 Know about my experiences [ds](ds) por ver
 
 - ⚡ Fun fact **I'm dinosaur fan 🦖🦕😁**
 
