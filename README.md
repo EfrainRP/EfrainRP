@@ -1,7 +1,7 @@
 <h2 align='center'> Hi, I am Efrain </h2>
 
 <div align='center'> 
-    ![van dino](https://github.com/user-attachments/assets/c3730462-0581-4f0c-bb73-052fd7b50c4e)  
+     ![van dino](https://github.com/user-attachments/assets/e2e26751-4c1c-443e-b7a7-45030742d157)
 </div>
 <!-- ## Hi  👋
 **EfrainRP/EfrainRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
